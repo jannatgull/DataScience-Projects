@@ -1,0 +1,7 @@
+med_order_id,admit_id,patient_id,med_name,dose
+M1,A1,P001,Aspirin,1 tablet
+M2,A1,P001,Lisinopril,1 tablet
+M3,A2,P002,Metformin,1 tablet
+M4,A3,P003,Amoxicillin,1 capsule
+M5,A4,P004,Paracetamol,2 tablets
+M6,A4,P004,Vitamin D,1 tablet

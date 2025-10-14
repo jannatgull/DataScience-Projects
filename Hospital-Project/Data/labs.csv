@@ -1,0 +1,7 @@
+lab_id,admit_id,test_name,test_value,normal_low,normal_high
+L1,A1,Blood Pressure,150,80,120
+L2,A1,Sugar,90,70,100
+L3,A2,Sugar,140,70,100
+L4,A2,Cholesterol,250,100,200
+L5,A3,Blood Pressure,110,80,120
+L6,A4,Sugar,60,70,100

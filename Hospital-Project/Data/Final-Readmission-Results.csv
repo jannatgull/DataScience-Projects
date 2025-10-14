@@ -1,0 +1,5 @@
+admission_id,patient_id,admit_datetime,discharge_datetime,department,dob,age,los,admit_id_x,Test Results,admit_id_y,num_med,readmitted_within_30d,risk_score,risk_prob
+A1,P001,2025-09-01 08:00:00,2025-09-05 10:00:00,Cardiology,1960-05-10,65,4,A1,1,A1,2,1,1.9100000000000001,1.0
+A2,P002,2025-08-20 09:00:00,2025-08-23 11:00:00,Medicine,1985-03-25,40,3,A2,2,A2,1,0,1.2800000000000002,0.3636363636363638
+A3,P003,2025-09-10 07:30:00,2025-09-12 09:00:00,Surgery,1992-12-01,32,2,A3,0,A3,1,0,0.92,0.0
+A4,P004,2025-09-15 10:00:00,2025-09-20 09:30:00,Orthopedic,1970-02-11,55,4,A4,1,A4,2,1,1.71,0.7979797979797978

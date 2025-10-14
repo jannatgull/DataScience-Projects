@@ -1,0 +1,5 @@
+patient_id,readmitted_within_30d
+P001,1
+P002,0
+P003,0
+P004,1
